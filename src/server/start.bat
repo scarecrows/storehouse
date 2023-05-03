@@ -1,0 +1,1 @@
+cmd /c "pm2 start app.js"
